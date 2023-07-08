@@ -10,7 +10,7 @@ namespace _08._07._2023_Kalıtım3
     {
         static void Main(string[] args)
         {
-       
+            
 
             Console.ReadLine();
         }
