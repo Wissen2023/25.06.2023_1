@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25.06.2023_AbstractClass", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.07.2023_Kalıtım3", "..\08.07.2023_Kalıtım3\08.07.2023_Kalıtım3.csproj", "{EC6A0912-79D8-47D7-9DB4-5675FCB969D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.07.2023_Virtual", "..\08.07.2023_Virtual\08.07.2023_Virtual.csproj", "{B3F60B78-68AB-4867-A041-9C85A68AA36E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.07.2023_Partial", "..\08.07.2023_Partial\08.07.2023_Partial.csproj", "{34FAF3BD-0CF1-425D-AAFB-810C495AAE25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{EC6A0912-79D8-47D7-9DB4-5675FCB969D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC6A0912-79D8-47D7-9DB4-5675FCB969D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC6A0912-79D8-47D7-9DB4-5675FCB969D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3F60B78-68AB-4867-A041-9C85A68AA36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F60B78-68AB-4867-A041-9C85A68AA36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F60B78-68AB-4867-A041-9C85A68AA36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F60B78-68AB-4867-A041-9C85A68AA36E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34FAF3BD-0CF1-425D-AAFB-810C495AAE25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34FAF3BD-0CF1-425D-AAFB-810C495AAE25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34FAF3BD-0CF1-425D-AAFB-810C495AAE25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34FAF3BD-0CF1-425D-AAFB-810C495AAE25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
