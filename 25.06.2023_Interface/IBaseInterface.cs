@@ -12,12 +12,14 @@ namespace _25._06._2023_Interface
         void Yaz();
         string Yaz2(string metin);
 
+
+
+
         //CRUD İşlemleri
 
         //Create -> Yeniden oluşturma 
         //Read -> Listeleme
         //Edit -> Güncelleme
         //Delete -> Silme
-        
     }
 }

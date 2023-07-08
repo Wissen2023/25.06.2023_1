@@ -12,6 +12,8 @@ namespace _25._06._2023_Enum
         {
             EnumClass enumClass = new EnumClass();
             Console.WriteLine(enumClass.days[0].ToString());
+            Console.WriteLine(enumClass.days[2].ToString());
+            Console.WriteLine(enumClass.days[1].ToString());
             Console.ReadLine();
         }
     }

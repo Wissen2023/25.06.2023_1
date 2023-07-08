@@ -14,6 +14,8 @@ namespace _25._06._2023_AbstractClass
         {
             Console.WriteLine("Burası abstract classtan gelen Yaz methodu");
         }
+
+
         //Abstarct method
         public abstract int mul(int i);
     }
