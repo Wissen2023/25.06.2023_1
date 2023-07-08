@@ -11,11 +11,11 @@ namespace _25._06._2023_Kapsulleme
         int kapsulID;
         public int KapsulID 
         { 
-            get 
+            get // get yazılımda okumak(yani read işlemi) değeri okur yada listeler
             { 
                 return kapsulID; 
             }
-            set 
+            set // set yazılımda değerin üstüne değer atar.
             {
                 kapsulID = value; 
             }

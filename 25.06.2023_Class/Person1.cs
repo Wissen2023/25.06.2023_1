@@ -8,7 +8,9 @@ namespace _25._06._2023_Class
 {
     public class Person1
     {
+        private int id;
         public int Id { get; set; }
+        public int MyProperty { get; set; }
         public string PersonName { get; set; }
 
         public void Test()

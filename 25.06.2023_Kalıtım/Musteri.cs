@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace _25._06._2023_Kalıtım
 {
-    public class Musteri
+    public class Musteri 
+        // Baseclass görevi görür fakat bu base class değildir
     {
         public int Id { get; set; }
         public string Ad { get; set; }
