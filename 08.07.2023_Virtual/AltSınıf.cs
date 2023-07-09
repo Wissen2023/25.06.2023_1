@@ -10,7 +10,7 @@ namespace _08._07._2023_Virtual
     {
         public override void AnaSınıfMethod(string mtn)
         {
-            base.AnaSınıfMethod("Burası gelecek");
+            base.AnaSınıfMethod(mtn);
         }
     }
 }
